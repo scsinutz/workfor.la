@@ -1,7 +1,7 @@
 # Setup
 title:        WorkFor.LA- Learn the process to work for the City of Los Angeles
 tagline:      It takes a year, but it’s worth a lifetime!
-baseurl:      "WorkFor.LA"
+baseurl:      WorkFor.LA
 paginate:     1
 
 # About/contact
